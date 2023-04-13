@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Thabani a Junior Web developer from 
+- 👋 Hi, I’m @ThabanisGood a Junior Web developer from 
 South Africa on a mission to build cool things on the web. 
 When I am not staring at my screen, you can
 find me watching animated videos or movies. 
